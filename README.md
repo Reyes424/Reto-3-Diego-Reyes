@@ -21,4 +21,5 @@ https://app.diagrams.net/#G1B2GF00noq7FS_y4OjLJdlOm4SehHOZ_M#%7B%22pageId%22%3A%
 
     // Paso 3: Mostrar los divisores encontrados
     Mostrar "Los divisores de", n, "son:", lista_divisores
+
 Fin
