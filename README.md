@@ -7,7 +7,7 @@ https://app.diagrams.net/#G1B2GF00noq7FS_y4OjLJdlOm4SehHOZ_M#%7B%22pageId%22%3A%
 2. Pseudocódigo
 
 
-Inicio
+    Inicio
     Definir lista_divisores como una lista vacía
     Leer n  // Número del cual queremos encontrar divisores
 
